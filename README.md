@@ -54,7 +54,7 @@ Each project generally contains:
 ```
 Project/
 ├── design.v          // Verilog module
-├── testbench.v       // Testbench
+├── tb_design.v       // Testbench
 ```
 
 ---
